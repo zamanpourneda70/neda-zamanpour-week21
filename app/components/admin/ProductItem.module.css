@@ -1,0 +1,22 @@
+.span {
+  width: 10px;
+  height: 10px;
+  margin-left: 5px;
+}
+.button {
+  width: 30px;
+  height: 30px;
+  font-size: 1.5rem;
+  margin: auto 10px;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+
+}
+
+.box {
+  width: 150px;
+}
+.row:hover td {
+  background: rgb(213, 207, 245);
+}

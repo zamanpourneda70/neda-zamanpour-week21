@@ -1,0 +1,25 @@
+.container{
+    width: fit-content;
+    box-shadow: rgba(149,157,165,0.2) 0px 8px 24px;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 10px;
+    margin: 15px;
+
+}
+.image{
+    width: 300px;
+    border-radius: 5px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+.container h4{
+    text-align: center;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #000;
+}

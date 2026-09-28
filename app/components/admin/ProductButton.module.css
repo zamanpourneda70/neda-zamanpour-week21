@@ -1,0 +1,27 @@
+
+.button{
+  width: 100%;
+  display: flex;
+  justify-content:end;
+  align-items: center;
+  gap: 10px;
+}
+.button button {
+  font-family: "Yekan";
+  width: 132px;
+  height: 45px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+  background-color: #55A3F0;
+  color: #FFFFFF;
+  font-weight: 400;
+  transition: 0.2s all ease-in-out;
+  
+
+}
+.button button:hover{
+    box-shadow: #55A3F0 0px 7px 29px 0px;
+
+}

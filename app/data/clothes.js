@@ -1,0 +1,101 @@
+const clothes = [
+  {
+    id: 1,
+    name: "شلوار سرمه ایی",
+    price: "2,500,000 تومان",
+    image: "/pic/sh1.jfif",
+    category: "pan",
+  },
+  {
+    id: 2,
+    name: "شلوار قهوه ایی",
+    price: "3,500,000 تومان",
+    image: "/pic/sh2.jfif",
+    category: "pan",
+  },
+  {
+    id: 3,
+    name: "شلوار سبز",
+    price: "2,000,000 تومان",
+    image: "/pic/sh3.jfif",
+    category: "pan",
+  },
+  {
+    id: 4,
+    name: "کلاه مشکی",
+    price: "400,000 تومان",
+    image: "/pic/k1.jfif",
+    category: "hat",
+  },
+  {
+    id: 5,
+    name: "کلاه قهوه ایی",
+    price: "200,000 تومان",
+    image: "/pic/k2.jfif",
+    category: "hat",
+  },
+  {
+    id: 6,
+    name: "کلاه سفید",
+    price: "300,000 تومان",
+    image: "/pic/k3.jfif",
+    category: "hat",
+  },
+  {
+    id: 7,
+    name: "لباس مجلسی مشکی",
+    price: "50,000,000 تومان",
+    image: "/pic/m1.jfif",
+    category: "nightdress",
+  },{
+    id: 8,
+    name: "لباس مجلسی قرمز",
+    price: "15,000,000 تومان",
+    image: "/pic/m2.jfif",
+    category: "nightdress",
+  },{
+    id: 9,
+    name: "لباس مجلسی سبز",
+    price: "30,000,000 تومان",
+    image: "/pic/m3.jfif",
+    category: "nightdress",
+  },{
+    id: 10,
+    name: "تی شرت سفید",
+    price: "700,000 تومان",
+    image: "/pic/r1.jfif",
+    category: "shirt",
+  },{
+    id: 11,
+    name: "تی شرت مشکی",
+    price: "800,000 تومان",
+    image: "/pic/r2.jfif",
+    category: "shirt",
+  },{
+    id: 12,
+    name: " تی شرت طرحدار",
+    price: "900,000 تومان",
+    image: "/pic/r3.jfif",
+    category: "shirt",
+  },{
+    id: 13,
+    name: "ست لباس و شلوار آبی",
+    price: "3,000,000 تومان",
+    image: "/pic/s1.jfif",
+    category: "set",
+  },{
+    id: 14,
+    name: "ست لباس و شلوار قهوه ایی",
+    price: "4,000,000 تومان",
+    image: "/pic/s2.jfif",
+    category: "set",
+  },{
+    id: 15,
+    name: "ست لباس و شلوار کرم",
+    price: "5,000,000 تومان",
+    image: "/pic/s3.jfif",
+    category: "set",
+  },
+];
+
+export default clothes;

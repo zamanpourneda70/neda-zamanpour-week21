@@ -1,0 +1,69 @@
+.header {
+  width: 1212px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  font-size: 1.2rem;
+  font-weight: 500;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+}
+.link {
+  width: 45%;
+  display: flex;
+}
+.link a {
+  color: #000;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+.link a:hover {
+  color: #c6c7c9;
+  border-bottom: 1px solid #e5e7eb;
+}
+.link li {
+  margin: auto 10px;
+  list-style: none;
+}
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin: 10px;
+  font-size: 1rem;
+}
+.button {
+  font-family: "Yekan";
+  width: 70px;
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 15px;
+  background-color: rgba(85, 163, 240, 1);
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 1);
+  transition: 0.2s all ease-in-out;
+  margin: 5px;
+}
+
+.button:hover {
+  box-shadow: #55a3f0 0px 3px 29px 0px;
+}
+.enter {
+  margin-left: 10px;
+}
+.footer {
+  width: 1212px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  margin: 10px auto;
+  font-weight: 500;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+}
